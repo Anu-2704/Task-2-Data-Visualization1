@@ -1,4 +1,4 @@
-# Task 3 — Data Visualization
+# Task 2 — Data Visualization
 
 ## Overview
 This task transforms raw Amazon Product Review data into a comprehensive set of **12 publication-quality visualizations** using **Matplotlib** and **Seaborn**. The charts are organized into a single-page HTML dashboard (`dashboard.html`) that tells a cohesive data story.
